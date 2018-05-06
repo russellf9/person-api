@@ -10,7 +10,11 @@ This is very basic React App I will use as a starter app to investigate and expl
 
 ----
 
-This project was bootstrapped with [Create React App]`(https://github.com/facebookincubator/create-react-app).
+![Person](https://user-images.githubusercontent.com/4911915/39673777-85ac8122-513a-11e8-8050-b7afc4016a12.png)
+
+----
+
+This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 (I've kept the following from the original Create React App for future reference)
 
